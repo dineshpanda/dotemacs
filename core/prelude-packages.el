@@ -58,6 +58,7 @@
     anzu
     beacon
     browse-kill-ring
+    company
     crux
     discover-my-major
     diff-hl
